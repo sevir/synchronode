@@ -1,0 +1,11 @@
+{
+  "author": "Jose Francisco Rives <jose@sevir.org>",
+  "name": "synchronode",
+  "description": "The folder synchronization alternative to Dropbox",
+  "version": "0.0.1",
+  "dependencies": {
+    "chokidar": "~0.6.3",
+    "rsyncwrapper": "0.0.19",
+    "commander": "~2.0.0"
+  }
+}
